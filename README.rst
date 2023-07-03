@@ -1,4 +1,4 @@
-**NOTE:** This is just a fork of the regular `{fmt} Repository <https://github.com/fmtlib/fmt>` reset to a specific commit to provide a stable base for our custom `ROS Docker Image <https://github.com/ka-raceing/ROS-Docker>`
+**NOTE:** This is just a fork of the regular `{fmt} Repository <https://github.com/fmtlib/fmt>`_ reset to a specific commit to provide a stable base for our custom `ROS Docker Image <https://github.com/ka-raceing/ROS-Docker>`_
 
 .. image:: https://user-images.githubusercontent.com/
            576385/156254208-f5b743a9-88cf-439d-b0c0-923d53e8d551.png
